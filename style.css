@@ -1,0 +1,32 @@
+/* div started */
+
+.container {
+  /* border: 1px solid black; */
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+/* div closed */
+
+/* button started */
+
+.btn {
+  padding: 10px 20px;
+  border-radius: 0px 20px;
+  border-color: 1px solid white;
+  color: white;
+  background-color: #3bec24;
+  cursor: pointer;
+  font-size: 18px;
+  transition: 0.7s;
+}
+.btn:hover {
+  border-color: white;
+  border-radius: 0px 20px;
+  background-color: #3bec24;
+  cursor: pointer;
+  padding: 11px 30px;
+  font-size: 20px;
+}
+/* button closed */
