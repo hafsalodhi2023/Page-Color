@@ -7,7 +7,7 @@ Make sure you have Git installed on your machine. If not, download and install i
 ### Step 2: Open Terminal or Command Prompt
 Open your terminal or command prompt on your local machine.
 ### Step 3: Navigate to Your Desired Directory
-Use the cd command to navigate to the directory where you want to clone the "image-slider" repository.
+Use the cd command to navigate to the directory where you want to clone the "Page-Color" repository.
 ```bash
 cd path/to/your/directory
 ```
